@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khali\\source\\repos\\JenkinsCICDProject\\JenkinsCICDProject.csproj": {}
+    "C:\\Research\\JenkinsCICDProject\\JenkinsCICDProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khali\\source\\repos\\JenkinsCICDProject\\JenkinsCICDProject.csproj": {
+    "C:\\Research\\JenkinsCICDProject\\JenkinsCICDProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khali\\source\\repos\\JenkinsCICDProject\\JenkinsCICDProject.csproj",
+        "projectUniqueName": "C:\\Research\\JenkinsCICDProject\\JenkinsCICDProject.csproj",
         "projectName": "JenkinsCICDProject",
-        "projectPath": "C:\\Users\\khali\\source\\repos\\JenkinsCICDProject\\JenkinsCICDProject.csproj",
+        "projectPath": "C:\\Research\\JenkinsCICDProject\\JenkinsCICDProject.csproj",
         "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khali\\source\\repos\\JenkinsCICDProject\\obj\\",
+        "outputPath": "C:\\Research\\JenkinsCICDProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khali\\AppData\\Roaming\\NuGet\\NuGet.Config",
