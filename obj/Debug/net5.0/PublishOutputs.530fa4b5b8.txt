@@ -1,0 +1,11 @@
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\JenkinsCICDProject.exe
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\appsettings.json
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\JenkinsCICDProject.dll
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\JenkinsCICDProject.deps.json
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\JenkinsCICDProject.runtimeconfig.json
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\JenkinsCICDProject.pdb
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Research\JenkinsCICDProject\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
